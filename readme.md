@@ -1,15 +1,17 @@
-|Controller |Type|Typical display |conn|Typical resolution|Driver Library |Remark |
+|Controller |Type|Typical display |conn.|Typ.res.|Driver Library |Remark |
 |----|----|----|----|----|----|----|
 |SSD1606 |E-Paper|||128x180|micropython-ili9341 |Collection of drivers |
 |SSD1675 |E-Paper||||ssd1675a||
 |HD44780 |LCD Char.||||lcdi2c||
 |HD44780 |LCD Char.||||micropython-charlcd||
-|HD44780 |LCD Char.||i2c||micropython-i2c-lcd||
+|HD44780|LCD Char.||I2C ||micropython-i2c-lcd||
 |HX1230 |LCD Grap.|||96x68 |micropython-hx1230||
 |LCD160CR |LCD Grap.|Small multicolor LCD TFT Touch |||Official LCD160CR||
 |PCD8544 |LCD Grap.|Nokia 5110||84x48 |micropython-pcd8544||
 |ST565 |LCD Grap.||||micropython-st7565||
 |ST7920 |LCD Grap.|Larger||128x64 |micropython-st7920||
+|FT800|LCD TFT||||||
+|FT810|LCD TFT||||||
 |ILI9341|LCD TFT||||micropython-ili9341|Collection of drivers |
 |ILI9341 |LCD TFT|Medium lcd rgb 2.7”-3.2” |||micropython-ili9341|ili9341 |
 |ILI934X |LCD TFT||SPI ||micropython-ili934x||
@@ -17,7 +19,7 @@
 |SH1106|LCD TFT||||micropython-ili9341|Collection of drivers |
 |SSD1606|LCD TFT||||micropython-ili9341|Collection of drivers |
 |SSD1963|LCD TFT|||864x480 |SSD1963-TFT-Library-for-PyBoard|Pyboard version|
-|RA8875 |||||micropython_ra8875||
+|RA8875 |LCD TFT||||micropython_ra8875||
 |ST7735|LCD TFT||||micropython-ili9341|Collection of drivers |
 |ST7735 |LCD TFT||||MicroPython-ST7735|ESP32 version|
 |ST7735 |LCD TFT|||128x128 |MicroPython_ST7735||
@@ -54,4 +56,3 @@
 |SSD1327 |OLED|1.5" square OLED||128x128||Adafruit |
 |SSD1351 |OLED||||micropython-ssd1351||
 |UC1701X|OLED||||micropython-oled|Collection of drivers |
-https://awesome-micropython.com/
