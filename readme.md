@@ -1,5 +1,7 @@
--Please report dead links
--Please add contributions
+ # Micropython displays reference chart 
+ 
+ - Please report dead links
+ - Please add contributions
 
 |Controller |Type|Typical display |conn.|Typ.res.|Driver Library |Remark |
 |----|----|----|----|----|----|----|
