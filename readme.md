@@ -48,7 +48,7 @@
 |SH1106|OLED| | | |[micropython-oled](https://bitbucket.org/thesheep/micropython-oled)|Collection of drivers |
 |SH1106 |OLED| | | |[]()|Waveshare oled RPI hat |
 |SH1107 |OLED| | | |[ ]()|Adafruit |
-|SSD1305   |OLED|Adafruit 2.23" Monochrome OLED bonnet (RPI)| | |[ ]()||
+|SSD1305   |OLED|Adafruit 2.23" bonnet (RPI)| | |[ ]()||
 |SSD1306|OLED| | | |[micropython-oled](https://bitbucket.org/thesheep/micropython-oled)|Collection of drivers |
 |SSD1306 |OLED|128x64| |128x64|[MicroPython_SSD1306](https://github.com/AnthonyKNorman/MicroPython_SSD1306)|ESP8266|
 |SSD1306 |OLED|0.96" OLED | |128x64|[Official SSD1306](https://github.com/micropython/micropython/tree/master/drivers/display)| |
