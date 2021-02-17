@@ -4,7 +4,7 @@
 |SSD1675 |E-Paper||||ssd1675a||
 |HD44780 |LCD Char.||||lcdi2c||
 |HD44780 |LCD Char.||||micropython-charlcd||
-|HD44780 I2C |LCD Char.||||micropython-i2c-lcd||
+|HD44780 |LCD Char.||i2c||micropython-i2c-lcd||
 |HX1230 |LCD Grap.|||96x68 |micropython-hx1230||
 |LCD160CR |LCD Grap.|Small multicolor LCD TFT Touch |||Official LCD160CR||
 |PCD8544 |LCD Grap.|Nokia 5110||84x48 |micropython-pcd8544||
