@@ -51,3 +51,4 @@
 |SSD1327 |OLED|1.5" square OLED||128x128||Adafruit |
 |SSD1351 |OLED||||micropython-ssd1351||
 |UC1701X|OLED||||micropython-oled|Collection of drivers |
+https://awesome-micropython.com/
