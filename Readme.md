@@ -17,3 +17,4 @@
 |SH1107  | 	Adafruit                            |
 |SH1106  |	Waveshare oled RPI hat              |
 |NT7108  |				
+|FT810   |5" LCD                                |800x480          |			
