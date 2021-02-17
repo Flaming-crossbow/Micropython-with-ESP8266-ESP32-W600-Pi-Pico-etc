@@ -10,7 +10,7 @@
 |SSD1305 |  2.23" Monochrome OLED               |                 |  Adafruit bonnet (RPI) 
 |ST7920  |	Larger                              |128x64 			    |
 |ST7735R | 	Small color display                 |			            |Adafruit      |
-|ST7796S | 	 2.23" Monochrome OLED              |			
+|ST7796S | 	4"TFT              |480x320			
 |ST7789  |	IPS TFT 	                          |		
 |HD44780 | 	Character led 	                    |		
 |ILI9341 | 	Medium lcd rgb 2.7”-3.2” 	          |		
