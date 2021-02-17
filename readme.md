@@ -1,5 +1,5 @@
-Please report dead links
-Please report contributions
+-Please report dead links
+-Please add contributions
 
 |Controller |Type|Typical display |conn.|Typ.res.|Driver Library |Remark |
 |----|----|----|----|----|----|----|
@@ -35,8 +35,8 @@ Please report contributions
 |ST7796S |LCD TFT| | | |[ ]()| |
 |HT1632C |LED Matrix|32x16 bicolor led matrix| |32x16|[micropython-ht1632c](https://github.com/vrialland/micropython-ht1632c)| |
 |MAX7219 |LED Matrix|LED matrix| |8x8|[micropython-max7219](https://github.com/mcauser/micropython-max7219)| |
-|TM1640 |LED Matrix| | | |[micropython-wemos-led-matrix-shield](https://github.com/mactijn/micropython-wemos-led-matrix-shield)|for Wemos D1 Mini Matrix LED shield|
-|TM1640 |LED Matrix| | | |[micropython-wemos-led-matrix](https://github.com/mattytrentini/micropython-wemos-led-matrix)|for Wemos D1 Mini Matrix LED shield|
+|TM1640 |LED Matrix|Wemos D1 Mini Matrix LED shield| | |[micropython-wemos-led-matrix-shield](https://github.com/mactijn/micropython-wemos-led-matrix-shield)||
+|TM1640 |LED Matrix|Wemos D1 Mini Matrix LED shield| | |[micropython-wemos-led-matrix](https://github.com/mattytrentini/micropython-wemos-led-matrix)||
 |LKM1638|LED Segm.| | | |[LKM1638](https://github.com/arikb/LKM1638)| |
 |MAX7219 |LED Segm.|8-digit 7-segment LED| | |[max7219_8digit - Driver](https://github.com/pdwerryhouse/max7219_8digit)| |
 |MAX7219 |LED Segm.|8-digit 7-segment LED| | |[micropython-max7219](https://github.com/JulienBacquart/micropython-max7219)| |
@@ -48,7 +48,7 @@ Please report contributions
 |SH1106|OLED| | | |[micropython-oled](https://bitbucket.org/thesheep/micropython-oled)|Collection of drivers |
 |SH1106 |OLED| | | |[]()|Waveshare oled RPI hat |
 |SH1107 |OLED| | | |[ ]()|Adafruit |
-|SSD1305   |OLED| | | |[ ]()|Adafruit 2.23" Monochrome OLED bonnet (RPI) |
+|SSD1305   |OLED|Adafruit 2.23" Monochrome OLED bonnet (RPI)| | |[ ]()||
 |SSD1306|OLED| | | |[micropython-oled](https://bitbucket.org/thesheep/micropython-oled)|Collection of drivers |
 |SSD1306 |OLED|128x64| |128x64|[MicroPython_SSD1306](https://github.com/AnthonyKNorman/MicroPython_SSD1306)|ESP8266|
 |SSD1306 |OLED|0.96" OLED | |128x64|[Official SSD1306](https://github.com/micropython/micropython/tree/master/drivers/display)| |
@@ -59,4 +59,5 @@ Please report contributions
 |SSD1327 |OLED|1.5" square OLED| |128x128|[ ]()|Adafruit |
 |SSD1351 |OLED| | | |[micropython-ssd1351](https://github.com/rdagger/micropython-ssd1351)| |
 |UC1701X|OLED| | | |[micropython-oled](https://bitbucket.org/thesheep/micropython-oled)|Collection of drivers |
+
 https://awesome-micropython.com/
