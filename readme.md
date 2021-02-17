@@ -1,6 +1,7 @@
+
 |Controller |Type|Typical display |conn.|Typ.res.|Driver Library |Remark |
 |----|----|----|----|----|----|----|
-|SSD1606 |E-Paper|||128x180|micropython-ili9341 |Collection of drivers |
+|SSD1606 |E-Paper|||128x180|[micropython-ili9341](https://bitbucket.org/thesheep/micropython-ili9341) |Collection of drivers |
 |SSD1675 |E-Paper||||ssd1675a||
 |HD44780 |LCD Char.||||lcdi2c||
 |HD44780 |LCD Char.||||micropython-charlcd||
@@ -56,3 +57,4 @@
 |SSD1327 |OLED|1.5" square OLED||128x128||Adafruit |
 |SSD1351 |OLED||||micropython-ssd1351||
 |UC1701X|OLED||||micropython-oled|Collection of drivers |
+https://awesome-micropython.com/
