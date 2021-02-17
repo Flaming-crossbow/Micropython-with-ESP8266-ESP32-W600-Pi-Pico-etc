@@ -1,3 +1,6 @@
+Please report dead links
+Please report contributions
+
 |Controller |Type|Typical display |conn.|Typ.res.|Driver Library |Remark |
 |----|----|----|----|----|----|----|
 |SSD1606 |E-Paper|active matrix epaper| |128x180|[micropython-ili9341 ](https://bitbucket.org/thesheep/micropython-ili9341)|Collection of drivers |
