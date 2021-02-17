@@ -1,4 +1,4 @@
-|Controller |Type|Typical display |conn|Typical resolution|Driver Library |Remark |
+|Controller |Type|General|conn|Typ. res.|Driver Library |Remark |
 |----|----|----|----|----|----|----|
 |HD44780 |LCD Char.||||lcdi2c||
 |HD44780 |LCD Char.||||micropython-charlcd||
