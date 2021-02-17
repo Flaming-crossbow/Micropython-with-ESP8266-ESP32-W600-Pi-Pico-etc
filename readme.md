@@ -1,5 +1,7 @@
-|Controller |Type|General|conn|Typ. res.|Driver Library |Remark |
+|Controller |Type|Typical display |conn|Typical resolution|Driver Library |Remark |
 |----|----|----|----|----|----|----|
+|SSD1606 |E-Paper|||128x180|micropython-ili9341 |Collection of drivers |
+|SSD1675 |E-Paper||||ssd1675a||
 |HD44780 |LCD Char.||||lcdi2c||
 |HD44780 |LCD Char.||||micropython-charlcd||
 |HD44780 I2C |LCD Char.||||micropython-i2c-lcd||
@@ -15,6 +17,7 @@
 |SH1106|LCD TFT||||micropython-ili9341|Collection of drivers |
 |SSD1606|LCD TFT||||micropython-ili9341|Collection of drivers |
 |SSD1963|LCD TFT|||864x480 |SSD1963-TFT-Library-for-PyBoard|Pyboard version|
+|RA8875 |||||micropython_ra8875||
 |ST7735|LCD TFT||||micropython-ili9341|Collection of drivers |
 |ST7735 |LCD TFT||||MicroPython-ST7735|ESP32 version|
 |ST7735 |LCD TFT|||128x128 |MicroPython_ST7735||
